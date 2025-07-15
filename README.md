@@ -41,7 +41,7 @@
 ## 🔗 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-username)  
-- 🐙 [GitHub](https://github.com/your-username)
+- 🐙 [GitHub](https://github.com/Manav-K24)
 
 ---
 
